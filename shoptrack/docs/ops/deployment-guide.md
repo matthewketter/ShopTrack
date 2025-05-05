@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../index.md): Deployment Guide
+# [ShopTrack Documentation](../): Deployment Guide
 
 This document describes how to install, configure, and run the ShopTrack application in a local development environment.
 

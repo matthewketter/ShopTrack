@@ -8,7 +8,7 @@ This repository showcases my expertise developing, producing, and maintaining te
 
 ### ShopTrack
 
-[ShopTrack](shoptrack/docs/index.md) is a fictional e-commerce and order management platform designed to showcase comprehensive documentation practices. This project demonstrates how to create resources for diverse audiences, including developers, product managers, customer support teams, marketers, QA specialists, and operations staff. Built with Python and powered by the Flask framework, ShopTrack highlights best practices in technical writing and software development.
+[ShopTrack](shoptrack/docs/) is a fictional e-commerce and order management platform designed to showcase comprehensive documentation practices. This project demonstrates how to create resources for diverse audiences, including developers, product managers, customer support teams, marketers, QA specialists, and operations staff. Built with Python and powered by the Flask framework, ShopTrack highlights best practices in technical writing and software development.
 
 ### Coming Soon
 

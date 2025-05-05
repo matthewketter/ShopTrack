@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../index.md): Release Notes
+# [ShopTrack Documentation](../): Release Notes
 
 ## Version 1.0.0
 
@@ -34,7 +34,7 @@ This release includes all core functionality necessary to support a basic e-comm
 | `/admin/add-product` | POST | Add a new product (Admin only) |
 | `/webhooks/new-order` | POST | Simulate webhook for new order |
 
-Full [documentation](../index.md) is available.
+Full [documentation](../) is available.
 
 ## Known Limitations
 

@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../index.md): Cart Endpoints
+# [ShopTrack Documentation](../): Cart Endpoints
 
 This document describes the API endpoints for managing the shopping cart in ShopTrack.
 

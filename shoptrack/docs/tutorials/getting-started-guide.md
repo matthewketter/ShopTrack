@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Getting Started Guide
+# [ShopTrack Documentation](../index.md): Getting Started Guide
 
 Welcome to **ShopTrack**!  
 This guide walks you through buying your first product, from browsing available items to completing your first checkout.
@@ -137,4 +137,4 @@ Now that you've completed your first purchase:
 - Try creating a new product using the `/admin/add-product` endpoint
 - Review system behavior during checkout and webhook stubs
 
-Visit the full [documentation](../README.md) for detailed endpoint references.
+Visit the full [documentation](../index.md) for detailed endpoint references.

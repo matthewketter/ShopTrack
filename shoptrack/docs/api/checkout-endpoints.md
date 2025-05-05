@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Checkout Endpoint
+# [ShopTrack Documentation](../index.md): Checkout Endpoint
 
 This document describes the checkout API used to finalize purchases.
 

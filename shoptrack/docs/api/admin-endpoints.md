@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Admin Endpoints
+# [ShopTrack Documentation](../index.md): Admin Endpoints
 
 This document describes the administrative API for managing products.
 

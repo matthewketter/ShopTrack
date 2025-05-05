@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Webhook Endpoints
+# [ShopTrack Documentation](../index.md): Webhook Endpoints
 
 This document describes the stub webhook API used to simulate external event notifications.
 

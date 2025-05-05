@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Manual API and App Validation
+# [ShopTrack Documentation](../index.md): Manual API and App Validation
 
 This document provides manual test steps to validate core functionality of the ShopTrack backend.
 

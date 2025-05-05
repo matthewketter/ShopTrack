@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Deployment Guide
+# [ShopTrack Documentation](../index.md): Deployment Guide
 
 This document describes how to install, configure, and run the ShopTrack application in a local development environment.
 
@@ -87,7 +87,7 @@ shoptrack/
 │   ├── routes/            # API route blueprints
 │   └── utils/             # Utility functions
 ├── requirements.txt       # Python dependencies
-├── README.md              # Project overview
+├── index.md              # Project overview
 └── PRODUCT_OVERVIEW.md    # Product overview
 ```
 

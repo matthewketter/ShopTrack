@@ -1,4 +1,4 @@
-# [ShopTrack Documentation](../README.md): Product Catalog Endpoints
+# [ShopTrack Documentation](../index.md): Product Catalog Endpoints
 
 This document describes the API endpoints related to browsing and managing the product catalog in ShopTrack.
 
